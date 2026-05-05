@@ -1,6 +1,8 @@
 # sales-dashboard-excel
 Excel Sales Analysis Dashboard – Portfolio Project
 
+![Dashboard](images/dashboard.png)
+
 This project demonstrates my ability to clean, structure, and analyze sales data using Excel. I built an interactive dashboard that summarizes key business metrics, including total revenue, top-performing categories, and best-selling products. The dashboard is powered by PivotTables and dynamic charts, allowing quick insights into sales performance across multiple dates and product groups.
 
 ## Key skills demonstrated
